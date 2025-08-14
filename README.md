@@ -51,5 +51,8 @@ A fully functional temperature converter featuring:
 4. Click "Convert" button
 5. View the converted temperature with detailed result
 
-## 📜 License
-This project is open source and available under the [MIT License](LICENSE).
+
+<img width="1919" height="883" alt="Image" src="https://github.com/user-attachments/assets/201e6051-3e94-43de-a4be-7c3ed58f8b14" />
+
+
+<img width="1919" height="880" alt="Image" src="https://github.com/user-attachments/assets/879d748f-170f-4b7a-85a4-bc3cd0c2f4eb" />
